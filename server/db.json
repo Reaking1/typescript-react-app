@@ -1,0 +1,31 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "first_name": "Customer_1",
+      "last_name": "Customer_11",
+      "email": "customer1@mail.com",
+      "phone": "00000000000",
+      "address": "Customer_1 Address",
+      "description": "Customer_1 description"
+    },
+    {
+      "id": "2",
+      "first_name": "RM",
+      "last_name": "MADILENG",
+      "email": "reabetsweramoswane@gmail.com",
+      "phone": "+27673802503",
+      "address": "9 AVENUE",
+      "description": "Developer "
+    },
+    {
+      "id": "1e6d",
+      "first_name": "Reabetswe",
+      "last_name": "MADILENG",
+      "email": "reabetsweramoswane@gmail.com",
+      "phone": "0673802503",
+      "address": "9 AVENUE",
+      "description": ""
+    }
+  ]
+}
